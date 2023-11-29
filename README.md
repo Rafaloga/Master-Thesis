@@ -9,6 +9,6 @@ This Master Thesis explores the use of advanced image processing tools for catal
 - **`src/`**: Contains all the source code used for image processing and analysis.
 - **`data/`**: Includes the datasets used in the study, subject to data privacy and usage guidelines.
 - **`docs/`**: Documentation of the methodologies, algorithms, and results.
-- **`results/**`: Outputs of the analysis, including images, charts, and statistical data.
-- **`scripts/**`: Utility scripts for data processing and analysis.
+- **`results/`**: Outputs of the analysis, including images, charts, and statistical data.
+- **`scripts/`**: Utility scripts for data processing and analysis.
 
