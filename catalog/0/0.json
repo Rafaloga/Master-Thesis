@@ -1,0 +1,117 @@
+[
+    {
+        "clase_mayoritaria": "Cupressus"
+    },
+    {
+        "frame": 0,
+        "segment": 4,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470609,
+            "long": -3.6930415,
+            "azi": NaN
+        },
+        "genus": "Cupressus",
+        "score genus": 0.2052899999999999,
+        "species": "Cupressus dupreziana",
+        "score species": 0.13269
+    },
+    {
+        "frame": 1,
+        "segment": 3,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470609,
+            "long": -3.6930415,
+            "azi": 180.0
+        },
+        "genus": "Cupressus",
+        "score genus": 0.19564,
+        "species": "Cupressus dupreziana",
+        "score species": 0.12545
+    },
+    {
+        "frame": 2,
+        "segment": 19,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470609,
+            "long": -3.6930415,
+            "azi": 180.0
+        },
+        "genus": "Cupressus",
+        "score genus": 0.21636,
+        "species": "Cupressus dupreziana",
+        "score species": 0.1501
+    },
+    {
+        "frame": 3,
+        "segment": 10,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470609,
+            "long": -3.6930415,
+            "azi": 180.0
+        },
+        "genus": "Cupressus",
+        "score genus": 0.25272,
+        "species": "Cupressus dupreziana",
+        "score species": 0.1778
+    },
+    {
+        "frame": 20,
+        "segment": 2,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.693077078787879,
+            "azi": 89.99999997307779
+        },
+        "genus": "Cupressus",
+        "score genus": 0.2963699999999999,
+        "species": "Cupressus dupreziana",
+        "score species": 0.2138
+    },
+    {
+        "frame": 23,
+        "segment": 0,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.693076828,
+            "azi": 89.99999997334702
+        },
+        "genus": "Cupressus",
+        "score genus": 0.28194,
+        "species": "Cupressus dupreziana",
+        "score species": 0.19072
+    },
+    {
+        "frame": 22,
+        "segment": 4,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.69307691,
+            "azi": 89.99999997269694
+        },
+        "genus": "Cupressus",
+        "score genus": 0.35843,
+        "species": "Cupressus dupreziana",
+        "score species": 0.26516
+    },
+    {
+        "frame": 21,
+        "segment": 11,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.693076994,
+            "azi": 89.99999997244086
+        },
+        "genus": "Cupressus",
+        "score genus": 0.3741,
+        "species": "Cupressus dupreziana",
+        "score species": 0.26156
+    }
+]
