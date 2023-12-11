@@ -1,0 +1,33 @@
+[
+    {
+        "clase_mayoritaria": "Ulmus"
+    },
+    {
+        "frame": 0,
+        "segment": 7,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470609,
+            "long": -3.6930415,
+            "azi": NaN
+        },
+        "genus": "Sterculia",
+        "score genus": 0.02275,
+        "species": "Cariniana legalis",
+        "score species": 0.02021
+    },
+    {
+        "frame": 20,
+        "segment": 31,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.693077078787879,
+            "azi": 89.99999997307779
+        },
+        "genus": "Ulmus",
+        "score genus": 0.04795,
+        "species": "Ulmus rubra",
+        "score species": 0.02542
+    }
+]

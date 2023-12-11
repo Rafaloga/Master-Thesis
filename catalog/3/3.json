@@ -1,0 +1,47 @@
+[
+    {
+        "clase_mayoritaria": "Platanus"
+    },
+    {
+        "frame": 0,
+        "segment": 9,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470609,
+            "long": -3.6930415,
+            "azi": NaN
+        },
+        "genus": "Platanus",
+        "score genus": 0.5179400000000001,
+        "species": "Platanus occidentalis",
+        "score species": 0.41297
+    },
+    {
+        "frame": 20,
+        "segment": 19,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.693077078787879,
+            "azi": 89.99999997307779
+        },
+        "genus": "Ulmus",
+        "score genus": 0.01982,
+        "species": "Ulmus americana",
+        "score species": 0.01384
+    },
+    {
+        "frame": 23,
+        "segment": 42,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.693076828,
+            "azi": 89.99999997334702
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    }
+]
