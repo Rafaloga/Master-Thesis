@@ -1,0 +1,89 @@
+[
+    {
+        "clase_mayoritaria": "Pinus"
+    },
+    {
+        "frame": 0,
+        "segment": 16,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470609,
+            "long": -3.6930415,
+            "azi": NaN
+        },
+        "genus": "Agapanthus",
+        "score genus": 0.01806,
+        "species": "Agapanthus africanus",
+        "score species": 0.01187
+    },
+    {
+        "frame": 1,
+        "segment": 18,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470609,
+            "long": -3.6930415,
+            "azi": 180.0
+        },
+        "genus": "Quercus",
+        "score genus": 0.04955,
+        "species": "Pinus pinea",
+        "score species": 0.03449
+    },
+    {
+        "frame": 2,
+        "segment": 24,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470609,
+            "long": -3.6930415,
+            "azi": 180.0
+        },
+        "genus": "Quercus",
+        "score genus": 0.0847499999999999,
+        "species": "Cinnamomum glanduliferum",
+        "score species": 0.0375
+    },
+    {
+        "frame": 20,
+        "segment": 41,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.693077078787879,
+            "azi": 89.99999997307779
+        },
+        "genus": "Pinus",
+        "score genus": 0.6772600000000001,
+        "species": "Pinus pinea",
+        "score species": 0.64271
+    },
+    {
+        "frame": 23,
+        "segment": 43,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.693076828,
+            "azi": 89.99999997334702
+        },
+        "genus": "Pinus",
+        "score genus": 0.74856,
+        "species": "Pinus pinea",
+        "score species": 0.7223
+    },
+    {
+        "frame": 22,
+        "segment": 42,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.69307691,
+            "azi": 89.99999997269694
+        },
+        "genus": "Pinus",
+        "score genus": 0.69072,
+        "species": "Pinus pinea",
+        "score species": 0.64868
+    }
+]
