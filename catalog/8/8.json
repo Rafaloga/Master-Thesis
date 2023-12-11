@@ -1,0 +1,1489 @@
+[
+    {
+        "clase_mayoritaria": "Pinus"
+    },
+    {
+        "frame": 0,
+        "segment": 20,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470609,
+            "long": -3.6930415,
+            "azi": NaN
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 1,
+        "segment": 22,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470609,
+            "long": -3.6930415,
+            "azi": 180.0
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 2,
+        "segment": 17,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470609,
+            "long": -3.6930415,
+            "azi": 180.0
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 3,
+        "segment": 21,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470609,
+            "long": -3.6930415,
+            "azi": 180.0
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 4,
+        "segment": 17,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547060877,
+            "long": -3.693041431,
+            "azi": 113.6038669406327
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 5,
+        "segment": 20,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547060836,
+            "long": -3.693041308,
+            "azi": 113.60387754111532
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 6,
+        "segment": 15,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547060788,
+            "long": -3.693041206,
+            "azi": 121.67037628340512
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 7,
+        "segment": 17,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547060704,
+            "long": -3.693041248,
+            "azi": 200.87758392943428
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 8,
+        "segment": 14,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547060622,
+            "long": -3.693041289,
+            "azi": 200.87758259129689
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 9,
+        "segment": 12,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547060631,
+            "long": -3.693041269,
+            "azi": 59.46326034376024
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 10,
+        "segment": 15,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547060673,
+            "long": -3.693041227,
+            "azi": 37.3374484308318
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 11,
+        "segment": 17,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547060714,
+            "long": -3.693041186,
+            "azi": 37.33744963349175
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 12,
+        "segment": 15,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547060756,
+            "long": -3.693041144,
+            "azi": 37.3374486887299
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 13,
+        "segment": 17,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547060798,
+            "long": -3.693041102,
+            "azi": 37.33745047265549
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 14,
+        "segment": 11,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470608,
+            "long": -3.693041061,
+            "azi": 86.34108766412136
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 15,
+        "segment": 14,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470608,
+            "long": -3.693041019,
+            "azi": 89.99999998634848
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 16,
+        "segment": 16,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547060823,
+            "long": -3.693040977,
+            "azi": 54.32623219827967
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 17,
+        "segment": 15,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547060864,
+            "long": -3.693040936,
+            "azi": 37.337451716060365
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 18,
+        "segment": 17,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470609060606,
+            "long": -3.693040887878788,
+            "azi": 41.11272694261393
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 19,
+        "segment": 16,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.54706094848485,
+            "long": -3.693040803030303,
+            "azi": 56.75697823310339
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 20,
+        "segment": 15,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.54706098989899,
+            "long": -3.69304072020202,
+            "azi": 56.75697498168861
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 21,
+        "segment": 17,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547061032,
+            "long": -3.693040668,
+            "azi": 43.40594346838124
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 22,
+        "segment": 16,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547061074,
+            "long": -3.693040626,
+            "azi": 37.33745065093319
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 23,
+        "segment": 15,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547061115,
+            "long": -3.693040585,
+            "azi": 37.3374494680628
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 24,
+        "segment": 17,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547061157,
+            "long": -3.693040543,
+            "azi": 37.33744823116196
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 25,
+        "segment": 17,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547061199000005,
+            "long": -3.693040501,
+            "azi": 37.33744612044413
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 26,
+        "segment": 13,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.54706128,
+            "long": -3.69304046,
+            "azi": 21.11274329910877
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 27,
+        "segment": 12,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547061364,
+            "long": -3.693040418,
+            "azi": 20.877583738051666
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 28,
+        "segment": 11,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547061424,
+            "long": -3.693040376,
+            "azi": 28.101348824660374
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 29,
+        "segment": 12,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547061465,
+            "long": -3.693040335,
+            "azi": 37.33744503477456
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 30,
+        "segment": 13,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.54706150693069,
+            "long": -3.6930403,
+            "azi": 32.48661423450425
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 31,
+        "segment": 12,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.54706154851485,
+            "long": -3.6930403,
+            "azi": 360.0
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 32,
+        "segment": 11,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.54706158910891,
+            "long": -3.6930403,
+            "azi": 360.0
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 33,
+        "segment": 18,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547061662,
+            "long": -3.693040269,
+            "azi": 17.974369011914003
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 34,
+        "segment": 14,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547061746,
+            "long": -3.693040227,
+            "azi": 20.87758001550831
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 35,
+        "segment": 11,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547061814,
+            "long": -3.6930402,
+            "azi": 16.85093665199319
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 36,
+        "segment": 16,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547061856,
+            "long": -3.6930402,
+            "azi": 360.0
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 37,
+        "segment": 11,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547061898,
+            "long": -3.6930402,
+            "azi": 360.0
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 38,
+        "segment": 12,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547061822,
+            "long": -3.6930402,
+            "azi": 180.0
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 39,
+        "segment": 13,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547061738,
+            "long": -3.6930402,
+            "azi": 180.0
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 40,
+        "segment": 13,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547061677,
+            "long": -3.6930402,
+            "azi": 180.0
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 41,
+        "segment": 15,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547061636,
+            "long": -3.6930402,
+            "azi": 180.0
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 42,
+        "segment": 10,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470616,
+            "long": -3.6930402,
+            "azi": 180.0
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 43,
+        "segment": 19,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470616,
+            "long": -3.6930402,
+            "azi": 180.0
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 44,
+        "segment": 13,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470616,
+            "long": -3.6930402,
+            "azi": 180.0
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 45,
+        "segment": 19,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547061631,
+            "long": -3.693040169,
+            "azi": 37.33744955238985
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 46,
+        "segment": 23,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547061673,
+            "long": -3.693040127,
+            "azi": 37.3374459248997
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 47,
+        "segment": 15,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547061686,
+            "long": -3.6930401,
+            "azi": 57.740752715461305
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 48,
+        "segment": 15,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547061644,
+            "long": -3.6930401,
+            "azi": 180.0
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 49,
+        "segment": 14,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547061602,
+            "long": -3.6930401,
+            "azi": 180.0
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 50,
+        "segment": 18,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547061639,
+            "long": -3.693040061,
+            "azi": 38.80148125574285
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 51,
+        "segment": 14,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547061681,
+            "long": -3.693040019,
+            "azi": 37.33744801499046
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 52,
+        "segment": 14,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.54706172277228,
+            "long": -3.69304,
+            "azi": 19.13527590646996
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 20,
+        "segment": 15,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.693077078787879,
+            "azi": 89.99999997307779
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 23,
+        "segment": 13,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.693076828,
+            "azi": 89.99999997334702
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 22,
+        "segment": 13,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.69307691,
+            "azi": 89.99999997269694
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 21,
+        "segment": 15,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.693076994,
+            "azi": 89.99999997244086
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 24,
+        "segment": 13,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.547087728,
+            "long": -3.693076716,
+            "azi": 71.8546021306024
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 30,
+        "segment": 10,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470878,
+            "long": -3.693076222,
+            "azi": 89.99999998634847
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 31,
+        "segment": 13,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470878,
+            "long": -3.69307616,
+            "azi": 89.99999997984774
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 4,
+        "segment": 8,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470875,
+            "long": -3.6930781,
+            "azi": 180.0
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 2,
+        "segment": 9,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470875,
+            "long": -3.6930781,
+            "azi": 180.0
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 0,
+        "segment": 9,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470875,
+            "long": -3.6930781,
+            "azi": NaN
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 5,
+        "segment": 13,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470875,
+            "long": -3.6930781,
+            "azi": 180.0
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 29,
+        "segment": 12,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470878,
+            "long": -3.693076264,
+            "azi": 89.99999998504833
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 32,
+        "segment": 12,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470878,
+            "long": -3.693076078,
+            "azi": 89.99999997334702
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 33,
+        "segment": 10,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.547087797,
+            "long": -3.693075991,
+            "azi": 92.58821820243186
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 34,
+        "segment": 15,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.547087755,
+            "long": -3.693075865,
+            "azi": 113.60388521029216
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 35,
+        "segment": 15,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.547087714,
+            "long": -3.693075742,
+            "azi": 113.60387945128603
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 36,
+        "segment": 13,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.693075644,
+            "azi": 100.60708428153904
+        },
+        "genus": "Pinus",
+        "score genus": 0.24187,
+        "species": "Pinus pinea",
+        "score species": 0.12554
+    },
+    {
+        "frame": 37,
+        "segment": 11,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.69307556,
+            "azi": 89.99999997269694
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 38,
+        "segment": 10,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.693075445,
+            "azi": 89.99999996262082
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 39,
+        "segment": 17,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.693075235,
+            "azi": 89.99999993174237
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 40,
+        "segment": 13,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.693075025,
+            "azi": 89.99999993174237
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 41,
+        "segment": 12,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.693074892,
+            "azi": 89.99999995677017
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 42,
+        "segment": 8,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.693074766,
+            "azi": 89.99999995904541
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 43,
+        "segment": 16,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.54708774,
+            "long": -3.69307464,
+            "azi": 67.40478309971172
+        },
+        "genus": "Pinus",
+        "score genus": 0.35937,
+        "species": "Pinus pinea",
+        "score species": 0.22094
+    },
+    {
+        "frame": 44,
+        "segment": 12,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.547087822,
+            "long": -3.693074517,
+            "azi": 48.84849309418051
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 45,
+        "segment": 15,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470879,
+            "long": -3.693074391,
+            "azi": 50.94012785705503
+        },
+        "genus": "Pinus",
+        "score genus": 0.25869,
+        "species": "Pinus pinea",
+        "score species": 0.16752
+    },
+    {
+        "frame": 46,
+        "segment": 10,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470879,
+            "long": -3.693074265,
+            "azi": 89.99999995904541
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 47,
+        "segment": 7,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470879,
+            "long": -3.693074142,
+            "azi": 89.99999996002053
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 48,
+        "segment": 9,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.547087928,
+            "long": -3.693074016,
+            "azi": 73.75845321786079
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 49,
+        "segment": 11,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.54708797,
+            "long": -3.69307389,
+            "azi": 66.39612102475158
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 50,
+        "segment": 9,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.547088,
+            "long": -3.693073778,
+            "azi": 70.65196270422783
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 51,
+        "segment": 9,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.547088,
+            "long": -3.693073694,
+            "azi": 89.99999997269694
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 111,
+        "segment": 14,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470867,
+            "long": -3.693066039603961,
+            "azi": 89.9999999594509
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 124,
+        "segment": 12,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.547086405,
+            "long": -3.693064515,
+            "azi": 113.60388637935
+        },
+        "genus": "Pinus",
+        "score genus": 0.0962,
+        "species": "Pinus pinea",
+        "score species": 0.02979
+    },
+    {
+        "frame": 266,
+        "segment": 14,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470853,
+            "long": -3.693052587,
+            "azi": 89.99999998667352
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 486,
+        "segment": 8,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470808,
+            "long": -3.693050122,
+            "azi": 89.99999998634847
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 506,
+        "segment": 11,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.547080389,
+            "long": -3.693049889,
+            "azi": 168.43349214869127
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 477,
+        "segment": 10,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.547081,
+            "long": -3.6930502,
+            "azi": 217.33744356252876
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 502,
+        "segment": 10,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470805,
+            "long": -3.693049955,
+            "azi": 89.99999998634847
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 267,
+        "segment": 15,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470853,
+            "long": -3.693052545,
+            "azi": 89.99999998634847
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 494,
+        "segment": 11,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470806,
+            "long": -3.693050189,
+            "azi": 89.9999999964246
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 238,
+        "segment": 8,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470852,
+            "long": -3.693054005050505,
+            "azi": 89.99999997242115
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 126,
+        "segment": 14,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470864,
+            "long": -3.693064266,
+            "azi": 89.99999995904541
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 125,
+        "segment": 8,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470864,
+            "long": -3.693064392,
+            "azi": 93.05034854650944
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 235,
+        "segment": 8,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.547085278,
+            "long": -3.6930541,
+            "azi": 145.25942343046216
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 489,
+        "segment": 10,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.547080697000006,
+            "long": -3.6930502,
+            "azi": 215.3115240270163
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 487,
+        "segment": 15,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.54708078,
+            "long": -3.69305012,
+            "azi": 175.6377594176437
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 478,
+        "segment": 10,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.547081,
+            "long": -3.6930502,
+            "azi": 180.0
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 269,
+        "segment": 13,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470853,
+            "long": -3.6930524623762375,
+            "azi": 89.9999999867958
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 482,
+        "segment": 10,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.547080889,
+            "long": -3.6930502,
+            "azi": 180.0
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 505,
+        "segment": 14,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.54708043,
+            "long": -3.6930499,
+            "azi": 180.0
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 515,
+        "segment": 13,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.547079928,
+            "long": -3.693049514,
+            "azi": 159.1224227015763
+        },
+        "genus": "Desconocido",
+        "score genus": 0,
+        "species": "Desconocido",
+        "score species": 0
+    },
+    {
+        "frame": 474,
+        "segment": 10,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470811,
+            "long": -3.693050079,
+            "azi": 270.0000000136515
+        },
+        "genus": "Pinus",
+        "score genus": 0.13093,
+        "species": "Pinus pinea",
+        "score species": 0.05731
+    }
+]
