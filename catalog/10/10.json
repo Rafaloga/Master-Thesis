@@ -1,0 +1,537 @@
+[
+    {
+        "clase_mayoritaria": "Cupressus"
+    },
+    {
+        "frame": 0,
+        "segment": 22,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470609,
+            "long": -3.6930415,
+            "azi": NaN
+        },
+        "genus": "Juniperus",
+        "score genus": 0.30928,
+        "species": "Cupressus gigantea",
+        "score species": 0.08384
+    },
+    {
+        "frame": 1,
+        "segment": 24,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470609,
+            "long": -3.6930415,
+            "azi": 180.0
+        },
+        "genus": "Juniperus",
+        "score genus": 0.2666699999999999,
+        "species": "Cupressus gigantea",
+        "score species": 0.07936
+    },
+    {
+        "frame": 2,
+        "segment": 16,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470609,
+            "long": -3.6930415,
+            "azi": 180.0
+        },
+        "genus": "Cupressus",
+        "score genus": 0.35051,
+        "species": "Cupressus sempervirens",
+        "score species": 0.17904
+    },
+    {
+        "frame": 3,
+        "segment": 17,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470609,
+            "long": -3.6930415,
+            "azi": 180.0
+        },
+        "genus": "Juniperus",
+        "score genus": 0.2897500000000001,
+        "species": "Cupressus gigantea",
+        "score species": 0.08225
+    },
+    {
+        "frame": 4,
+        "segment": 14,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547060877,
+            "long": -3.693041431,
+            "azi": 113.6038669406327
+        },
+        "genus": "Juniperus",
+        "score genus": 0.24144,
+        "species": "Cupressus gigantea",
+        "score species": 0.07849
+    },
+    {
+        "frame": 5,
+        "segment": 17,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547060836,
+            "long": -3.693041308,
+            "azi": 113.60387754111532
+        },
+        "genus": "Juniperus",
+        "score genus": 0.2654999999999999,
+        "species": "Cupressus gigantea",
+        "score species": 0.08541
+    },
+    {
+        "frame": 6,
+        "segment": 20,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547060788,
+            "long": -3.693041206,
+            "azi": 121.67037628340512
+        },
+        "genus": "Cupressus",
+        "score genus": 0.2898,
+        "species": "Cupressus gigantea",
+        "score species": 0.15265
+    },
+    {
+        "frame": 7,
+        "segment": 16,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547060704,
+            "long": -3.693041248,
+            "azi": 200.87758392943428
+        },
+        "genus": "Cupressus",
+        "score genus": 0.30093,
+        "species": "Cupressus gigantea",
+        "score species": 0.14069
+    },
+    {
+        "frame": 8,
+        "segment": 13,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547060622,
+            "long": -3.693041289,
+            "azi": 200.87758259129689
+        },
+        "genus": "Cupressus",
+        "score genus": 0.3945099999999999,
+        "species": "Cupressus sempervirens",
+        "score species": 0.2582
+    },
+    {
+        "frame": 9,
+        "segment": 14,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547060631,
+            "long": -3.693041269,
+            "azi": 59.46326034376024
+        },
+        "genus": "Cupressus",
+        "score genus": 0.47671,
+        "species": "Cupressus sempervirens",
+        "score species": 0.41713
+    },
+    {
+        "frame": 10,
+        "segment": 14,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547060673,
+            "long": -3.693041227,
+            "azi": 37.3374484308318
+        },
+        "genus": "Cupressus",
+        "score genus": 0.2980499999999999,
+        "species": "Cupressus sempervirens",
+        "score species": 0.15954
+    },
+    {
+        "frame": 11,
+        "segment": 16,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547060714,
+            "long": -3.693041186,
+            "azi": 37.33744963349175
+        },
+        "genus": "Cupressus",
+        "score genus": 0.5228900000000001,
+        "species": "Cupressus sempervirens",
+        "score species": 0.47407
+    },
+    {
+        "frame": 12,
+        "segment": 17,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547060756,
+            "long": -3.693041144,
+            "azi": 37.3374486887299
+        },
+        "genus": "Cupressus",
+        "score genus": 0.54352,
+        "species": "Cupressus sempervirens",
+        "score species": 0.49385
+    },
+    {
+        "frame": 13,
+        "segment": 18,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547060798,
+            "long": -3.693041102,
+            "azi": 37.33745047265549
+        },
+        "genus": "Cupressus",
+        "score genus": 0.56635,
+        "species": "Cupressus sempervirens",
+        "score species": 0.52937
+    },
+    {
+        "frame": 14,
+        "segment": 12,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470608,
+            "long": -3.693041061,
+            "azi": 86.34108766412136
+        },
+        "genus": "Cupressus",
+        "score genus": 0.44671,
+        "species": "Cupressus sempervirens",
+        "score species": 0.31975
+    },
+    {
+        "frame": 15,
+        "segment": 16,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470608,
+            "long": -3.693041019,
+            "azi": 89.99999998634848
+        },
+        "genus": "Cupressus",
+        "score genus": 0.54367,
+        "species": "Cupressus sempervirens",
+        "score species": 0.47597
+    },
+    {
+        "frame": 16,
+        "segment": 17,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547060823,
+            "long": -3.693040977,
+            "azi": 54.32623219827967
+        },
+        "genus": "Cupressus",
+        "score genus": 0.6101199999999999,
+        "species": "Cupressus sempervirens",
+        "score species": 0.55329
+    },
+    {
+        "frame": 17,
+        "segment": 18,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.547060864,
+            "long": -3.693040936,
+            "azi": 37.337451716060365
+        },
+        "genus": "Cupressus",
+        "score genus": 0.65638,
+        "species": "Cupressus sempervirens",
+        "score species": 0.61505
+    },
+    {
+        "frame": 18,
+        "segment": 18,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470609060606,
+            "long": -3.693040887878788,
+            "azi": 41.11272694261393
+        },
+        "genus": "Cupressus",
+        "score genus": 0.39249,
+        "species": "Cupressus sempervirens",
+        "score species": 0.35047
+    },
+    {
+        "frame": 20,
+        "segment": 14,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.693077078787879,
+            "azi": 89.99999997307779
+        },
+        "genus": "Juniperus",
+        "score genus": 0.21708,
+        "species": "Cupressus gigantea",
+        "score species": 0.07938
+    },
+    {
+        "frame": 23,
+        "segment": 12,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.693076828,
+            "azi": 89.99999997334702
+        },
+        "genus": "Juniperus",
+        "score genus": 0.20124,
+        "species": "Cupressus gigantea",
+        "score species": 0.0726
+    },
+    {
+        "frame": 22,
+        "segment": 12,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.69307691,
+            "azi": 89.99999997269694
+        },
+        "genus": "Cupressus",
+        "score genus": 0.22478,
+        "species": "Cupressus gigantea",
+        "score species": 0.10408
+    },
+    {
+        "frame": 21,
+        "segment": 16,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.693076994,
+            "azi": 89.99999997244086
+        },
+        "genus": "Cupressus",
+        "score genus": 0.2381899999999999,
+        "species": "Cupressus gigantea",
+        "score species": 0.11212
+    },
+    {
+        "frame": 24,
+        "segment": 12,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.547087728,
+            "long": -3.693076716,
+            "azi": 71.8546021306024
+        },
+        "genus": "Juniperus",
+        "score genus": 0.2151999999999999,
+        "species": "Cupressus gigantea",
+        "score species": 0.06856
+    },
+    {
+        "frame": 30,
+        "segment": 9,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470878,
+            "long": -3.693076222,
+            "azi": 89.99999998634847
+        },
+        "genus": "Cupressus",
+        "score genus": 0.22206,
+        "species": "Cupressus gigantea",
+        "score species": 0.08332
+    },
+    {
+        "frame": 31,
+        "segment": 12,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470878,
+            "long": -3.69307616,
+            "azi": 89.99999997984774
+        },
+        "genus": "Juniperus",
+        "score genus": 0.21092,
+        "species": "Cupressus gigantea",
+        "score species": 0.0743
+    },
+    {
+        "frame": 4,
+        "segment": 7,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470875,
+            "long": -3.6930781,
+            "azi": 180.0
+        },
+        "genus": "Cupressus",
+        "score genus": 0.2462,
+        "species": "Cupressus gigantea",
+        "score species": 0.08489
+    },
+    {
+        "frame": 2,
+        "segment": 8,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470875,
+            "long": -3.6930781,
+            "azi": 180.0
+        },
+        "genus": "Cupressus",
+        "score genus": 0.21838,
+        "species": "Cupressus gigantea",
+        "score species": 0.08964
+    },
+    {
+        "frame": 0,
+        "segment": 10,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470875,
+            "long": -3.6930781,
+            "azi": NaN
+        },
+        "genus": "Cupressus",
+        "score genus": 0.19562,
+        "species": "Cupressus gigantea",
+        "score species": 0.07589
+    },
+    {
+        "frame": 5,
+        "segment": 14,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470875,
+            "long": -3.6930781,
+            "azi": 180.0
+        },
+        "genus": "Cupressus",
+        "score genus": 0.26533,
+        "species": "Cupressus gigantea",
+        "score species": 0.10504
+    },
+    {
+        "frame": 29,
+        "segment": 11,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470878,
+            "long": -3.693076264,
+            "azi": 89.99999998504833
+        },
+        "genus": "Cupressus",
+        "score genus": 0.24674,
+        "species": "Cupressus gigantea",
+        "score species": 0.09315
+    },
+    {
+        "frame": 32,
+        "segment": 10,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470878,
+            "long": -3.693076078,
+            "azi": 89.99999997334702
+        },
+        "genus": "Juniperus",
+        "score genus": 0.22599,
+        "species": "Cupressus gigantea",
+        "score species": 0.07125
+    },
+    {
+        "frame": 33,
+        "segment": 11,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.547087797,
+            "long": -3.693075991,
+            "azi": 92.58821820243186
+        },
+        "genus": "Juniperus",
+        "score genus": 0.22691,
+        "species": "Cupressus gigantea",
+        "score species": 0.08275
+    },
+    {
+        "frame": 34,
+        "segment": 14,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.547087755,
+            "long": -3.693075865,
+            "azi": 113.60388521029216
+        },
+        "genus": "Juniperus",
+        "score genus": 0.1973899999999999,
+        "species": "Cupressus gigantea",
+        "score species": 0.07538
+    },
+    {
+        "frame": 35,
+        "segment": 14,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.547087714,
+            "long": -3.693075742,
+            "azi": 113.60387945128603
+        },
+        "genus": "Cupressus",
+        "score genus": 0.2249,
+        "species": "Cupressus gigantea",
+        "score species": 0.09664
+    },
+    {
+        "frame": 36,
+        "segment": 19,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.693075644,
+            "azi": 100.60708428153904
+        },
+        "genus": "Cupressus",
+        "score genus": 0.21168,
+        "species": "Cupressus gigantea",
+        "score species": 0.09433
+    },
+    {
+        "frame": 37,
+        "segment": 10,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.69307556,
+            "azi": 89.99999997269694
+        },
+        "genus": "Juniperus",
+        "score genus": 0.24448,
+        "species": "Cupressus gigantea",
+        "score species": 0.08202
+    },
+    {
+        "frame": 38,
+        "segment": 12,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.693075445,
+            "azi": 89.99999996262082
+        },
+        "genus": "Cupressus",
+        "score genus": 0.21856,
+        "species": "Cupressus gigantea",
+        "score species": 0.09701
+    }
+]

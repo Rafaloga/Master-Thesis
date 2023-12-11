@@ -1,0 +1,61 @@
+[
+    {
+        "clase_mayoritaria": "Juglans"
+    },
+    {
+        "frame": 0,
+        "segment": 19,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470609,
+            "long": -3.6930415,
+            "azi": NaN
+        },
+        "genus": "Cedrela",
+        "score genus": 0.0244999999999999,
+        "species": "Cedrela odorata",
+        "score species": 0.02269
+    },
+    {
+        "frame": 1,
+        "segment": 21,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470609,
+            "long": -3.6930415,
+            "azi": 180.0
+        },
+        "genus": "Juglans",
+        "score genus": 0.02209,
+        "species": "Juglans cinerea",
+        "score species": 0.01734
+    },
+    {
+        "frame": 2,
+        "segment": 14,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470609,
+            "long": -3.6930415,
+            "azi": 180.0
+        },
+        "genus": "Juglans",
+        "score genus": 0.02299,
+        "species": "Juglans cinerea",
+        "score species": 0.02023
+    },
+    {
+        "frame": 20,
+        "segment": 3,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.693077078787879,
+            "azi": 89.99999997307779
+        },
+        "genus": "Pinus",
+        "score genus": 0.0367299999999999,
+        "species": "Pinus torreyana",
+        "score species": 0.00636
+    }
+]

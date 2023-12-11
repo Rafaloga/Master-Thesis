@@ -1,0 +1,117 @@
+[
+    {
+        "clase_mayoritaria": "Pinus"
+    },
+    {
+        "frame": 0,
+        "segment": 21,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470609,
+            "long": -3.6930415,
+            "azi": NaN
+        },
+        "genus": "Robinia",
+        "score genus": 0.12619,
+        "species": "Robinia pseudoacacia",
+        "score species": 0.09352
+    },
+    {
+        "frame": 1,
+        "segment": 20,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470609,
+            "long": -3.6930415,
+            "azi": 180.0
+        },
+        "genus": "Robinia",
+        "score genus": 0.21146,
+        "species": "Robinia pseudoacacia",
+        "score species": 0.17481
+    },
+    {
+        "frame": 2,
+        "segment": 15,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470609,
+            "long": -3.6930415,
+            "azi": 180.0
+        },
+        "genus": "Robinia",
+        "score genus": 0.13084,
+        "species": "Robinia pseudoacacia",
+        "score species": 0.10371
+    },
+    {
+        "frame": 3,
+        "segment": 20,
+        "origin": "GX010042",
+        "gps": {
+            "lat": 40.5470609,
+            "long": -3.6930415,
+            "azi": 180.0
+        },
+        "genus": "Robinia",
+        "score genus": 0.16363,
+        "species": "Robinia pseudoacacia",
+        "score species": 0.11368
+    },
+    {
+        "frame": 20,
+        "segment": 13,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.693077078787879,
+            "azi": 89.99999997307779
+        },
+        "genus": "Pinus",
+        "score genus": 0.7116800000000001,
+        "species": "Pinus pinea",
+        "score species": 0.68502
+    },
+    {
+        "frame": 23,
+        "segment": 14,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.693076828,
+            "azi": 89.99999997334702
+        },
+        "genus": "Pinus",
+        "score genus": 0.7320599999999999,
+        "species": "Pinus pinea",
+        "score species": 0.70524
+    },
+    {
+        "frame": 22,
+        "segment": 11,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.69307691,
+            "azi": 89.99999997269694
+        },
+        "genus": "Pinus",
+        "score genus": 0.6594099999999998,
+        "species": "Pinus pinea",
+        "score species": 0.63011
+    },
+    {
+        "frame": 21,
+        "segment": 35,
+        "origin": "video1",
+        "gps": {
+            "lat": 40.5470877,
+            "long": -3.693076994,
+            "azi": 89.99999997244086
+        },
+        "genus": "Pinus",
+        "score genus": 0.5315399999999999,
+        "species": "Pinus pinea",
+        "score species": 0.50528
+    }
+]
